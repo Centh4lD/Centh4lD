@@ -5,10 +5,10 @@
 
 
 -->
-- 🔭 Actualmente estudiando en los cursos de FutureED.
-- 🌱 Próximamente: Ingeniero en Sistemas Computacionales.
+- 🔭 Segundo Semestre.
+- 🌱 Ingeniero en Sistemas Computacionales.
 - 👯 Si los puedes imaginar, lo puedes programar.
-- 🤔 Acepto opinión y crítica.
+- 🤔 Acepto crítica.
 - 💬 Disponibilidad a full.
 
 
